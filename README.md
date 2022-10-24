@@ -3,7 +3,7 @@
 
 ## Description
 
-The project uses the implementation of Algorithm on a banking dataset.
+The project uses the implementation of Apriori Algorithm on a banking dataset.
 It aims to find the most frequently occuring item under given attribute under specific conditions.
 More about this can be found on https://www.hackerearth.com/blog/developers/beginners-tutorial-apriori-algorithm-data-mining-r-implementation/
 
@@ -21,9 +21,4 @@ This project uses jupyter notebook and python software.
 For installation, refer https://www.youtube.com/watch?v=AuTkAWEa06E
 
 It can also be implemented by other python ides such as Pycharm, Spyder etc
-
-
-##  Datasets Used
-
-This dataset is obtained from kaggle and can be downloaded from link https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data?resource=download
 
