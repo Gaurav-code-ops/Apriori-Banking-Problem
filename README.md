@@ -20,5 +20,5 @@ frequent data appearing in the range 257-266 of our dataset train.csv for the at
 This project uses jupyter notebook and python software.
 For installation, refer https://www.youtube.com/watch?v=AuTkAWEa06E
 
-It can also be implemented by other python ides such as Pycharm, Spyder etc
+It can also be implemented by other python ides such as Pycharm, Spyder etc.
 
